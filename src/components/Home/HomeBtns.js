@@ -6,7 +6,7 @@ import {
 import { FaLinkedinIn } from "react-icons/fa";  
 import { FaStackOverflow } from "react-icons/fa"
 
-function Home2() {
+function HomeBtns() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
@@ -15,7 +15,7 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               About <span> Me </span> 
             </h1>
-            <p className="home-about-body">
+            <p className="home-about-body" style={{fontSize: "2.2em "}}>
               I am a developer with a focus on learning new technologies
                             <br />
               <br />I am fluent in
@@ -39,14 +39,11 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <p>
-              Where to find me
-            </p>
-            <p>Email - Armyman1992@hotmail.com</p>   
+            <p>Email - MaxJLanfear@gmail.com </p>   
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/dodgemech"
+                  href="https://github.com/MLanfear"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -56,7 +53,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/travis-geers/"
+                  href="https://www.linkedin.com/in/max-lanfear-b7a4b6175/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -66,7 +63,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://stackoverflow.com/users/20804646/travis-geers"
+                  href="https://stackoverflow.com/users/20908212/dafunk"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -81,4 +78,4 @@ function Home2() {
     </Container>
   );
 }
-export default Home2;
+export default HomeBtns;

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Resume from "./components/Resume/Resume";
+// import Resume from "./components/Resume/Resume";
 import Navbar from "./components/NavBar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
@@ -34,7 +34,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
-          <Route path="/resume" element={<Resume />} />
+          {/* <Route path="/resume" element={<Resume />} /> */}
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />

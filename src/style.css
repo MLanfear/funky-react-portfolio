@@ -26,27 +26,20 @@ html {
     overflow: hidden;
     height: 100vh;
   }
-  
-  /* --------- */
-  /*Scrollbar   */
-  /* --------- */
-  
+    
   ::-webkit-scrollbar {
     width: 7px;
   }
   
-  /* Track */
   ::-webkit-scrollbar-track {
     background: #0b0c10;
   }
   
-  /* Handle */
   ::-webkit-scrollbar-thumb {
     background: #45a29e;
     border-radius: 12px;
   }
   
-  /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
     background: #66fcf1;
     border-radius: 12px;
@@ -56,7 +49,7 @@ html {
   /* Navbar Section  */
   /* --------- */
   .sticky {
-    background-color: #1f2833 !important;
+    background-color: #271f33 !important;
     transition: all 0.3s ease-out 0s !important;
     box-shadow: 0px 10px 10px 0px #45a29e !important;
     backdrop-filter: blur(15px) !important;
@@ -178,10 +171,6 @@ html {
     width: 100%;
   }
   
-  /* --------- */
-  /* Home section */
-  /* --------- */
-  
   .home-header {
     padding-top: 80px !important;
   }
@@ -198,12 +187,13 @@ html {
   
   .home-content {
     padding: 9rem 0 2rem !important;
-    color: #c5c6c7;
     text-align: center;
+    background: url(./assets/images/FC-Main-Logo.jpg) no-repeat center center;
+    background-position: bottom;
   }
   
   .heading {
-    font-size: 2.4em !important;
+    font-size: 2.6em !important;
   }
   
   .heading-name {
@@ -212,17 +202,17 @@ html {
   }
   
   .main-name {
-    color: #66fcf1;
+    color: #6c34c6;
   }
   
   .Typewriter__wrapper {
     font-size: 2.2em !important;
-    color: #c5c6c7 !important;
+    color: #6c34c6 !important;
     font-weight: 600 !important;
   }
   .Typewriter__cursor {
     font-size: 2.4em !important;
-    color: #66fcf1 !important;
+    color: #6c34c6 !important;
   }
   
   @media (max-width: 767px) {
@@ -252,7 +242,7 @@ html {
   }
   
   .home-about-description {
-    color: #c5c6c7 !important;
+    color: #6c34c6 !important;
     padding-top: 15px !important;
     padding-bottom: 20px !important;
     text-align: center;
@@ -419,13 +409,13 @@ html {
   }
   
   .btn-primary {
-    color: #45a29e !important;
+    color: #6c34c6 !important;
     background-color: #0b0c10 !important;
     border-color: #45a29e !important;
   }
   
   .btn-primary:hover {
-    color: #45a29e !important;
+    color: #6c34c6 !important;
     background-color: #0b0c10 !important;
     border-color: #66fcf1 !important;
   }
@@ -434,7 +424,7 @@ html {
     box-shadow: none !important;
   }
   .project-heading {
-    color: #45a29e !important;
+    color: #6c34c6 !important;
     font-size: 2.3em !important;
     font-weight: 500 !important;
     padding-top: 10px !important;
@@ -476,7 +466,7 @@ html {
   .tech-icons:hover {
     transform: scale(1.05) !important;
     overflow: hidden !important;
-    border: 2.2px solid #66fcf1 !important;
+    border: 2.2px solid #6c34c6 !important;
   }
   .tech-icon-images {
     padding: 20px !important;
@@ -502,12 +492,9 @@ html {
   }
   
   h1 {
-    color: #45a29e;}
-  /* --------- */
-  /* Resume */
-  /* --------- */
+    color: #6c34c6;}
   
-  .resume-section {
+  /* .resume-section {
     position: relative !important;
     padding-top: 110px !important;
     padding-bottom: 30px !important;
@@ -588,4 +575,4 @@ html {
     top: 0;
     background: #1f2833;
     border: 2px solid #45a29e;
-  }
+  } */

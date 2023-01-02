@@ -12,16 +12,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Developed by Travis Geers</h3>
+          <h3>Developed by Max Lanfaer -- Dafunk</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Travis Geers</h3>
+          <h3>Copyright © {year} Max Lanfear</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/dodgemech"
+                href="https://github.com/MLanfear"
                 style={{ color: "#c5c6c7" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/travis-geers/"
+                href="https://www.linkedin.com/in/max-lanfear-b7a4b6175/"
                 style={{ color: "#c5c6c7" }}
                 target="_blank" 
                 rel="noopener noreferrer"

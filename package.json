@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "funky-react-portfolio",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://MLanfear.github.io/funky-react-portfolio/",
@@ -8,7 +8,7 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.1",
-    "bootstrap": "^5.1.3",
+    "bootstrap": "^5.2.3",
     "file-loader": "^6.2.0",
     "gh-pages": "^4.0.0",
     "react": "^17.0.2",
