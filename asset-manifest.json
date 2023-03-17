@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/funky-react-portfolio/static/css/main.a6abdbc3.css",
-    "main.js": "/funky-react-portfolio/static/js/main.6f45c5f7.js",
+    "main.css": "/funky-react-portfolio/static/css/main.1e3eed2d.css",
+    "main.js": "/funky-react-portfolio/static/js/main.8cf1551b.js",
     "static/js/787.e7bdec94.chunk.js": "/funky-react-portfolio/static/js/787.e7bdec94.chunk.js",
     "static/media/globo.jpg": "/funky-react-portfolio/static/media/globo.c5309a3963bc8131e36c.jpg",
+    "static/media/zookeepr.jpg": "/funky-react-portfolio/static/media/zookeepr.cd2dfae44caca6c7168d.jpg",
+    "static/media/sphinx.png": "/funky-react-portfolio/static/media/sphinx.564d42201addabc00894.png",
+    "static/media/commerceBE.jpg": "/funky-react-portfolio/static/media/commerceBE.5571c27cd6e81b09f24c.jpg",
+    "static/media/readmeGen.jpg": "/funky-react-portfolio/static/media/readmeGen.dbe4e1cc46355cadd1a8.jpg",
+    "static/media/notakr.jpg": "/funky-react-portfolio/static/media/notakr.352a046c9751e207ae3a.jpg",
+    "static/media/passgen.jpg": "/funky-react-portfolio/static/media/passgen.c3f66556cbb2106c3245.jpg",
     "static/media/FC-Main-Logo.jpg": "/funky-react-portfolio/static/media/FC-Main-Logo.d8b4e7a7860df3dd50bb.jpg",
     "index.html": "/funky-react-portfolio/index.html",
-    "main.a6abdbc3.css.map": "/funky-react-portfolio/static/css/main.a6abdbc3.css.map",
-    "main.6f45c5f7.js.map": "/funky-react-portfolio/static/js/main.6f45c5f7.js.map",
+    "static/media/MaxLanfearResume.pdf": "/funky-react-portfolio/static/media/MaxLanfearResume.31d6cfe0d16ae931b73c.pdf",
+    "main.1e3eed2d.css.map": "/funky-react-portfolio/static/css/main.1e3eed2d.css.map",
+    "main.8cf1551b.js.map": "/funky-react-portfolio/static/js/main.8cf1551b.js.map",
     "787.e7bdec94.chunk.js.map": "/funky-react-portfolio/static/js/787.e7bdec94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6abdbc3.css",
-    "static/js/main.6f45c5f7.js"
+    "static/css/main.1e3eed2d.css",
+    "static/js/main.8cf1551b.js"
   ]
 }
