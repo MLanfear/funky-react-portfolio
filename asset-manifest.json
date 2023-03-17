@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/funky-react-portfolio/static/css/main.a6abdbc3.css",
-    "main.js": "/funky-react-portfolio/static/js/main.3695f682.js",
+    "main.js": "/funky-react-portfolio/static/js/main.d3674061.js",
     "static/js/787.e7bdec94.chunk.js": "/funky-react-portfolio/static/js/787.e7bdec94.chunk.js",
+    "static/media/globo.jpg": "/funky-react-portfolio/static/media/globo.c5309a3963bc8131e36c.jpg",
     "static/media/FC-Main-Logo.jpg": "/funky-react-portfolio/static/media/FC-Main-Logo.d8b4e7a7860df3dd50bb.jpg",
     "index.html": "/funky-react-portfolio/index.html",
     "main.a6abdbc3.css.map": "/funky-react-portfolio/static/css/main.a6abdbc3.css.map",
-    "main.3695f682.js.map": "/funky-react-portfolio/static/js/main.3695f682.js.map",
+    "main.d3674061.js.map": "/funky-react-portfolio/static/js/main.d3674061.js.map",
     "787.e7bdec94.chunk.js.map": "/funky-react-portfolio/static/js/787.e7bdec94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6abdbc3.css",
-    "static/js/main.3695f682.js"
+    "static/js/main.d3674061.js"
   ]
 }
