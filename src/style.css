@@ -399,6 +399,7 @@ html {
     padding: 20px !important;
     opacity: 0.8 !important;
   }
+
   
   @media (max-width: 767px) {
     .card-img-top {
@@ -494,7 +495,7 @@ html {
   h1 {
     color: #6c34c6;}
   
-  /* .resume-section {
+  .resume-section {
     position: relative !important;
     padding-top: 110px !important;
     padding-bottom: 30px !important;
@@ -575,4 +576,4 @@ html {
     top: 0;
     background: #1f2833;
     border: 2px solid #45a29e;
-  } */
+  }
