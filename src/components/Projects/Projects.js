@@ -12,6 +12,8 @@ import notetakr  from "../../assets/images/notakr.jpg";
 import globo  from "../../assets/images/globo.jpg";
 import readmeGen  from "../../assets/images/readmeGen.jpg";
 import commerceBE  from "../../assets/images/commerceBE.jpg";
+import taskinator  from "../../assets/images/taskinator.jpg";
+import teamprofile  from "../../assets/images/teamprofile.jpg";
 
 function Projects () {
   return (
@@ -111,6 +113,31 @@ function Projects () {
               description="    This is a sample E-Commerce back-end database app. Extremely user friendly!"
               link="https://github.com/MLanfear/commerce-back-end"
               link2="https://mlanfear.github.io/commerce-back-end/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <h1 className="github-icon-outline">
+              < AiOutlineGithub />
+            </h1>
+            <ProjectCard
+              imgPath={taskinator}
+              isBlog={false}
+              title="Taskinator"
+              description="Basic easy-to-use task organizer created with Javascript"
+              link="https://github.com/MLanfear/taskinator"
+              link2="https://mlanfear.github.io/taskinator/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <h1 className="github-icon-outline">
+              < AiOutlineGithub />
+            </h1>
+            <ProjectCard
+              imgPath={teamprofile}
+              isBlog={false}
+              title="Team Profile Generator"
+              description="This is a basic but easy to use Team Generator for business's. It asks several questions to identify employees and displays them in the web browser."
+              link="https://github.com/MLanfear/team-profile-generator"
             />
           </Col>
         </Row>
