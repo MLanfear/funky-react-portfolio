@@ -140,6 +140,20 @@ function Projects () {
               link="https://github.com/MLanfear/team-profile-generator"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <h1 className="github-icon-outline">
+              < AiOutlineGithub />
+            </h1>
+            <ProjectCard
+              imgPath={techblog}
+              isBlog={false}
+              title="Funky Tech Blog"
+              description="Basic tech blog site for users to interact with each other with Post and Comment sections. Created with Mysql2 and Express.js"
+              link="https://github.com/MLanfear/Funky-Tech-Blog"
+              link2="https://mlanfear.github.io/Funky-Tech-Blog/"
+            />
+          </Col>
+
         </Row>
       </Container>
     </Container>
