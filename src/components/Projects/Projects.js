@@ -14,6 +14,8 @@ import readmeGen  from "../../assets/images/readmeGen.jpg";
 import commerceBE  from "../../assets/images/commerceBE.jpg";
 import taskinator  from "../../assets/images/taskinator.jpg";
 import teamprofile  from "../../assets/images/teamprofile.jpg";
+import gititdone  from "../../assets/images/gititdone.jpg";
+import javaquiz  from "../../assets/images/javaquiz.jpg";
 
 function Projects () {
   return (
@@ -110,7 +112,7 @@ function Projects () {
               imgPath={commerceBE}
               isBlog={false}
               title="E Commerce"
-              description="    This is a sample E-Commerce back-end database app. Extremely user friendly!"
+              description="This is a sample E-Commerce back-end database app. Extremely user friendly!"
               link="https://github.com/MLanfear/commerce-back-end"
               link2="https://mlanfear.github.io/commerce-back-end/"
             />
@@ -153,7 +155,32 @@ function Projects () {
               link2="https://mlanfear.github.io/Funky-Tech-Blog/"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <h1 className="github-icon-outline">
+              < AiOutlineGithub />
+            </h1>
+            <ProjectCard
+              imgPath={gititdone}
+              isBlog={false}
+              title="Git It Done!"
+              description="This app was designed to allow the user to search for Github users by account name. Created with HTML, CSS and Javascript"
+              link="https://github.com/MLanfear/git-it-done"
+              link2="https://mlanfear.github.io/git-it-done/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <h1 className="github-icon-outline">
+              < AiOutlineGithub />
+            </h1>
+            <ProjectCard
+              imgPath={javaquiz}
+              isBlog={false}
+              title="Java Quiz"
+              description="Time based multiple choice Javascript quiz with a final score provided at the end. Created with HTML, CSS and Javascript"
+              link="https://github.com/MLanfear/quiz-java"
+              link2="https://mlanfear.github.io/quiz-java/"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
