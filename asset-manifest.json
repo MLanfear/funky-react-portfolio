@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/funky-react-portfolio/static/css/main.1e3eed2d.css",
-    "main.js": "/funky-react-portfolio/static/js/main.995b36b4.js",
+    "main.js": "/funky-react-portfolio/static/js/main.c6d0752e.js",
     "static/js/787.e7bdec94.chunk.js": "/funky-react-portfolio/static/js/787.e7bdec94.chunk.js",
     "static/media/globo.jpg": "/funky-react-portfolio/static/media/globo.c5309a3963bc8131e36c.jpg",
     "static/media/zookeepr.jpg": "/funky-react-portfolio/static/media/zookeepr.cd2dfae44caca6c7168d.jpg",
@@ -10,7 +10,7 @@
     "static/media/teamprofile.jpg": "/funky-react-portfolio/static/media/teamprofile.6de4450532f9e6567305.jpg",
     "static/media/readmeGen.jpg": "/funky-react-portfolio/static/media/readmeGen.dbe4e1cc46355cadd1a8.jpg",
     "static/media/taskinator.jpg": "/funky-react-portfolio/static/media/taskinator.9eee0b123f8012a98d00.jpg",
-    "static/media/MaxLanfearResume.pdf": "/funky-react-portfolio/static/media/MaxLanfearResume.a0c438d2aa0952823143.pdf",
+    "static/media/MaxFunkResume.pdf": "/funky-react-portfolio/static/media/MaxFunkResume.8af5b87d065c91394564.pdf",
     "static/media/notakr.jpg": "/funky-react-portfolio/static/media/notakr.352a046c9751e207ae3a.jpg",
     "static/media/techblog.jpg": "/funky-react-portfolio/static/media/techblog.f51dcb2a4692afca683d.jpg",
     "static/media/passgen.jpg": "/funky-react-portfolio/static/media/passgen.c3f66556cbb2106c3245.jpg",
@@ -19,11 +19,11 @@
     "static/media/FC-Main-Logo.jpg": "/funky-react-portfolio/static/media/FC-Main-Logo.d8b4e7a7860df3dd50bb.jpg",
     "index.html": "/funky-react-portfolio/index.html",
     "main.1e3eed2d.css.map": "/funky-react-portfolio/static/css/main.1e3eed2d.css.map",
-    "main.995b36b4.js.map": "/funky-react-portfolio/static/js/main.995b36b4.js.map",
+    "main.c6d0752e.js.map": "/funky-react-portfolio/static/js/main.c6d0752e.js.map",
     "787.e7bdec94.chunk.js.map": "/funky-react-portfolio/static/js/787.e7bdec94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e3eed2d.css",
-    "static/js/main.995b36b4.js"
+    "static/js/main.c6d0752e.js"
   ]
 }
