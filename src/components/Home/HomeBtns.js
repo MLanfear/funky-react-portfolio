@@ -23,14 +23,12 @@ function HomeBtns() {
               <br />
               <br />
               My interests are building new&nbsp;
-                <b>web technologies and products </b> and
+                <b>web technologies and products </b>
                 in areas related to creating better tools for people.
               <br />
               <br />
-              I also apply my passion for developing with 
-                <b>Node.js</b> and
-                <b>
-                &nbsp;Javascript Frameworks
+              I also apply my passion for developing with <b>Node.js</b> and<b>
+              &nbsp;Javascript Frameworks
                 </b>
               &nbsp;like
                 <b> React.js</b>

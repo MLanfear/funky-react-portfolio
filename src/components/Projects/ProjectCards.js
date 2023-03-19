@@ -14,7 +14,7 @@ function ProjectCards(props) {
             {props.description}
           </Card.Text>
           <Button className="mx-2" variant="secondary" size='sm' href={props.link}  target="_blank">
-          {"View Project"}
+          {"View Github Repo"}
           </Button>
           <Button className="mx-2" style={{}} size='sm' variant="secondary" href={props.link2} target="_blank">
           {"View Live"}
